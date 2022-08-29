@@ -1,0 +1,334 @@
+Namespace Project: arbi-api-integration-1151
+Deploy Name:
+deployment.extensions "review-developer-ttm3l0" deleted
+deployment.extensions "review-scda-974-d8fuw3" deleted
+Service Name:
+service "review-developer-ttm3l0-auto-deploy" deleted
+service "review-scda-974-d8fuw3-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-developer-ttm3l0-auto-deploy" deleted
+ingress.extensions "review-scda-974-d8fuw3-auto-deploy" deleted
+#########################################################################
+Namespace Project: core-correcoes-indexadas-1239
+Deploy Name:
+deployment.extensions "review-correcoes-rhmr8z" deleted
+Service Name:
+service "review-correcoes-rhmr8z-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-correcoes-rhmr8z-auto-deploy" deleted
+#########################################################################
+Namespace Project: core-operacao-recompra-pendencia-1312
+Deploy Name:
+deployment.extensions "review-fix-atuali-ol6de4" deleted
+deployment.extensions "review-fix-correc-r9nbr4" deleted
+deployment.extensions "review-fix-nome-c-193wa4" deleted
+deployment.extensions "review-smle-2903-1q3wpy" deleted
+Service Name:
+service "review-fix-atuali-ol6de4-auto-deploy" deleted
+service "review-fix-correc-r9nbr4-auto-deploy" deleted
+service "review-fix-nome-c-193wa4-auto-deploy" deleted
+service "review-smle-2903-1q3wpy-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-fix-atuali-ol6de4-auto-deploy" deleted
+ingress.extensions "review-fix-correc-r9nbr4-auto-deploy" deleted
+ingress.extensions "review-fix-nome-c-193wa4-auto-deploy" deleted
+ingress.extensions "review-smle-2903-1q3wpy-auto-deploy" deleted
+#########################################################################
+Namespace Project: core-operacao-recompra-pendencia-web-1308
+Deploy Name:
+deployment.extensions "review-fix-master-spdcub" deleted
+deployment.extensions "review-fix-payloa-uciwr7" deleted
+deployment.extensions "review-fix-pontua-2qwxkl" deleted
+deployment.extensions "review-fix-url-co-xqzxds" deleted
+Service Name:
+service "review-fix-master-spdcub-auto-deploy" deleted
+service "review-fix-payloa-uciwr7-auto-deploy" deleted
+service "review-fix-pontua-2qwxkl-auto-deploy" deleted
+service "review-fix-url-co-xqzxds-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-fix-master-spdcub-auto-deploy" deleted
+ingress.extensions "review-fix-payloa-uciwr7-auto-deploy" deleted
+ingress.extensions "review-fix-pontua-2qwxkl-auto-deploy" deleted
+ingress.extensions "review-fix-url-co-xqzxds-auto-deploy" deleted
+#########################################################################
+Namespace Project: core-pendencia-1331
+Deploy Name:
+deployment.extensions "review-smle-2843-u03gxo" deleted
+deployment.extensions "review-smle-2844-8yarib" deleted
+deployment.extensions "review-smle-2844-wa9veg" deleted
+deployment.extensions "review-smle-2875-z5td0s" deleted
+Service Name:
+service "review-smle-2843-u03gxo-auto-deploy" deleted
+service "review-smle-2844-8yarib-auto-deploy" deleted
+service "review-smle-2844-wa9veg-auto-deploy" deleted
+service "review-smle-2875-z5td0s-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-smle-2843-u03gxo-auto-deploy" deleted
+ingress.extensions "review-smle-2844-8yarib-auto-deploy" deleted
+ingress.extensions "review-smle-2844-wa9veg-auto-deploy" deleted
+ingress.extensions "review-smle-2875-z5td0s-auto-deploy" deleted
+#########################################################################
+Namespace Project: core-pendencia-web-1325
+Deploy Name:
+deployment.extensions "review-smle-2841-mygf8p" deleted
+deployment.extensions "review-smle-2870-ernjjf" deleted
+deployment.extensions "review-smle-2874-jpes69" deleted
+Service Name:
+service "review-smle-2841-mygf8p-auto-deploy" deleted
+service "review-smle-2870-ernjjf-auto-deploy" deleted
+service "review-smle-2874-jpes69-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-smle-2841-mygf8p-auto-deploy" deleted
+ingress.extensions "review-smle-2870-ernjjf-auto-deploy" deleted
+ingress.extensions "review-smle-2874-jpes69-auto-deploy" deleted
+#########################################################################
+Namespace Project: core-report-wefin-web-1289
+Deploy Name:
+deployment.extensions "review-sse-1448-z3zvzn" deleted
+Service Name:
+service "review-sse-1448-z3zvzn-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-sse-1448-z3zvzn-auto-deploy" deleted
+#########################################################################
+Namespace Project: srm-easy-email-1222
+Deploy Name:
+deployment.extensions "review-spli-1127-9zq8k0" deleted
+Service Name:
+service "review-spli-1127-9zq8k0-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-spli-1127-9zq8k0-auto-deploy" deleted
+#########################################################################
+Namespace Project: srm-remessa-receiver-1113
+Deploy Name:
+deployment.extensions "review-fix-scda-8-vqctm2" deleted
+Service Name:
+service "review-fix-scda-8-vqctm2-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-fix-scda-8-vqctm2-auto-deploy" deleted
+#########################################################################
+Namespace Project: srm-web
+Deploy Name:
+deployment.extensions "review-smle-2679-s43qud" deleted
+deployment.extensions "review-sse-1328b-b65pvm" deleted
+deployment.extensions "review-sse-1453-lhxxrn" deleted
+deployment.extensions "review-ssu-185-101mzq" deleted
+Service Name:
+service "review-smle-2679-s43qud-auto-deploy" deleted
+service "review-sse-1328b-b65pvm-auto-deploy" deleted
+service "review-sse-1453-lhxxrn-auto-deploy" deleted
+service "review-ssu-185-101mzq-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-smle-2679-s43qud-auto-deploy" deleted
+ingress.extensions "review-sse-1328b-b65pvm-auto-deploy" deleted
+ingress.extensions "review-sse-1453-lhxxrn-auto-deploy" deleted
+ingress.extensions "review-ssu-185-101mzq-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-autenticacao-1299
+Deploy Name:
+deployment.extensions "review-feature-ve-db201k" deleted
+Service Name:
+service "review-feature-ve-db201k-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-feature-ve-db201k-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-comissao-plataforma-representantes-1326
+Deploy Name:
+deployment.extensions "review-pteste-668-dtbhou" deleted
+Service Name:
+service "review-pteste-668-dtbhou-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-pteste-668-dtbhou-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-dados-usuario-plataforma-representantes-1317
+Deploy Name:
+deployment.extensions "review-pteste-671-6vtxwm" deleted
+Service Name:
+service "review-pteste-671-6vtxwm-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-pteste-671-6vtxwm-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-documentos-1315
+Deploy Name:
+deployment.extensions "review-pteste-663-g11g9a" deleted
+Service Name:
+service "review-pteste-663-g11g9a-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-pteste-663-g11g9a-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-eureka-server-1300
+Deploy Name:
+deployment.extensions "review-fix-instab-pvw87q" deleted
+Service Name:
+service "review-fix-instab-pvw87q-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-fix-instab-pvw87q-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-gerente-plataforma-representantes-1332
+Deploy Name:
+deployment.extensions "review-pteste-670-65s3md" deleted
+Service Name:
+service "review-pteste-670-65s3md-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-pteste-670-65s3md-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-notificacao-plataforma-representantes-1324
+Deploy Name:
+deployment.extensions "review-patch-1-lh8qci" deleted
+deployment.extensions "review-pteste-hom-c7a05f" deleted
+Service Name:
+service "review-patch-1-lh8qci-auto-deploy" deleted
+service "review-pteste-hom-c7a05f-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-patch-1-lh8qci-auto-deploy" deleted
+ingress.extensions "review-pteste-hom-c7a05f-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-plataforma-representantes-1247
+Deploy Name:
+deployment.extensions "review-develop-3zknud" deleted
+Service Name:
+service "review-develop-3zknud-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-develop-3zknud-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-plataforma-representantes-clientes-1316
+Deploy Name:
+deployment.extensions "review-pteste-675-iukttz" deleted
+deployment.extensions "review-teste-brun-m68mft" deleted
+Service Name:
+service "review-pteste-675-iukttz-auto-deploy" deleted
+service "review-teste-brun-m68mft-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-pteste-675-iukttz-auto-deploy" deleted
+ingress.extensions "review-teste-brun-m68mft-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-plataforma-representantes-web-1279
+Deploy Name:
+deployment.extensions "review-develop-3zknud" deleted
+deployment.extensions "review-feature-re-7q3xxo" deleted
+Service Name:
+service "review-develop-3zknud-auto-deploy" deleted
+service "review-feature-re-7q3xxo-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-develop-3zknud-auto-deploy" deleted
+ingress.extensions "review-feature-re-7q3xxo-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-schedullers-plataforma-representantes-1314
+Deploy Name:
+deployment.extensions "review-pteste-669-0k5lb6" deleted
+Service Name:
+service "review-pteste-669-0k5lb6-auto-deploy" deleted
+service "review-pteste-669-efsui4-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-pteste-669-0k5lb6-auto-deploy" deleted
+ingress.extensions "review-pteste-669-efsui4-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-titulos-plataforma-representantes-1318
+Deploy Name:
+deployment.extensions "review-teste-pkhg2r" deleted
+deployment.extensions "review-titulos-hltgzb" deleted
+Service Name:
+service "review-teste-pkhg2r-auto-deploy" deleted
+service "review-titulos-hltgzb-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-teste-pkhg2r-auto-deploy" deleted
+ingress.extensions "review-titulos-hltgzb-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-usuario-login-1303
+Deploy Name:
+deployment.extensions "review-feature-te-kkkvsr" deleted
+deployment.extensions "review-fix-refato-3hkky9" deleted
+deployment.extensions "review-pteste-684-8hm2dv" deleted
+deployment.extensions "review-pteste-689-qt4xjc" deleted
+deployment.extensions "review-pteste-698-k2js39" deleted
+deployment.extensions "review-pteste-699-v3s3z1" deleted
+deployment.extensions "review-refactor-r-ng2rku" deleted
+Service Name:
+service "review-feature-te-kkkvsr-auto-deploy" deleted
+service "review-fix-refato-3hkky9-auto-deploy" deleted
+service "review-pteste-684-8hm2dv-auto-deploy" deleted
+service "review-pteste-689-qt4xjc-auto-deploy" deleted
+service "review-pteste-698-k2js39-auto-deploy" deleted
+service "review-pteste-699-v3s3z1-auto-deploy" deleted
+service "review-refactor-r-ng2rku-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-feature-te-kkkvsr-auto-deploy" deleted
+ingress.extensions "review-fix-refato-3hkky9-auto-deploy" deleted
+ingress.extensions "review-pteste-684-8hm2dv-auto-deploy" deleted
+ingress.extensions "review-pteste-689-qt4xjc-auto-deploy" deleted
+ingress.extensions "review-pteste-698-k2js39-auto-deploy" deleted
+ingress.extensions "review-pteste-699-v3s3z1-auto-deploy" deleted
+ingress.extensions "review-refactor-r-ng2rku-auto-deploy" deleted
+#########################################################################
+Namespace Project: trusthub-whatsapp-service-1276
+Deploy Name:
+deployment.extensions "review-pteste-690-hz5jxs" deleted
+Service Name:
+service "review-pteste-690-hz5jxs-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-pteste-690-hz5jxs-auto-deploy" deleted
+#########################################################################
+Namespace Project: vadu-api-integration-1167
+Deploy Name:
+deployment.extensions "review-removendo-isiufk" deleted
+Service Name:
+service "review-removendo-isiufk-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-removendo-isiufk-auto-deploy" deleted
+#########################################################################
+Namespace Project: wefin-ms-portal-parceiros-1252
+Deploy Name:
+deployment.extensions "review-fix-login-lssa7v" deleted
+deployment.extensions "review-remapeamen-j3ain7" deleted
+deployment.extensions "review-spli-1119-2q2oov" deleted
+deployment.extensions "review-spli-1124-62brol" deleted
+deployment.extensions "review-spli-1125-nf3f8y" deleted
+deployment.extensions "review-spli-1126-6in2i3" deleted
+deployment.extensions "review-spli-1127-9zq8k0" deleted
+deployment.extensions "review-spli-1128-cbh3t0" deleted
+deployment.extensions "review-spli-1129-lvsrpj" deleted
+deployment.extensions "review-update-map-1th47v" deleted
+Service Name:
+service "review-fix-login-lssa7v-auto-deploy" deleted
+service "review-remapeamen-j3ain7-auto-deploy" deleted
+service "review-spli-1119-2q2oov-auto-deploy" deleted
+service "review-spli-1124-62brol-auto-deploy" deleted
+service "review-spli-1125-nf3f8y-auto-deploy" deleted
+service "review-spli-1126-6in2i3-auto-deploy" deleted
+service "review-spli-1127-9zq8k0-auto-deploy" deleted
+service "review-spli-1128-cbh3t0-auto-deploy" deleted
+service "review-spli-1129-lvsrpj-auto-deploy" deleted
+service "review-update-map-1th47v-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-fix-login-lssa7v-auto-deploy" deleted
+ingress.extensions "review-remapeamen-j3ain7-auto-deploy" deleted
+ingress.extensions "review-spli-1119-2q2oov-auto-deploy" deleted
+ingress.extensions "review-spli-1124-62brol-auto-deploy" deleted
+ingress.extensions "review-spli-1125-nf3f8y-auto-deploy" deleted
+ingress.extensions "review-spli-1126-6in2i3-auto-deploy" deleted
+ingress.extensions "review-spli-1127-9zq8k0-auto-deploy" deleted
+ingress.extensions "review-spli-1128-cbh3t0-auto-deploy" deleted
+ingress.extensions "review-spli-1129-lvsrpj-auto-deploy" deleted
+ingress.extensions "review-update-map-1th47v-auto-deploy" deleted
+#########################################################################
+Namespace Project: wefin-portal-parceiros-web-1273
+Deploy Name:
+deployment.extensions "review-spli-745-ygdyo6" deleted
+Service Name:
+service "review-spli-745-ygdyo6-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-spli-745-ygdyo6-auto-deploy" deleted
+#########################################################################
+Namespace Project: wefin-trustee-cessao-titulos-integracao-1323
+Deploy Name:
+deployment.extensions "review-stru-12-74gvbf" deleted
+deployment.extensions "review-stru-3-r7fhu8" deleted
+deployment.extensions "review-stru-35-j32682" deleted
+Service Name:
+service "review-stru-12-74gvbf-auto-deploy" deleted
+service "review-stru-3-r7fhu8-auto-deploy" deleted
+service "review-stru-35-j32682-auto-deploy" deleted
+Ingress Name:
+ingress.extensions "review-stru-12-74gvbf-auto-deploy" deleted
+ingress.extensions "review-stru-3-r7fhu8-auto-deploy" deleted
+ingress.extensions "review-stru-35-j32682-auto-deploy" deleted
+#########################################################################
